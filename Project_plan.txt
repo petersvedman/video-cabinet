@@ -1,4 +1,17 @@
 This is the project plan for my Video Cabinet.
 
-This
+Done so far:
+
+1. Created a GitHub repository, https://github.com/petersvedman/video-cabinet
+2. Uploaded videoplay.py script, licensing details and general info to the repository
+
+Still to do:
+1. Finish drawings for the cabinet, scan and upload
+2. Create drawings for the button interface board and upload them
+3. Build prototype interface board
+4. Configure the Raspberry Pi
+5. Build cabinet, mount hardware
+6. Test everything
+7. No profit!
+
 
